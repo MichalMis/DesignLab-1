@@ -15,3 +15,7 @@ Tydzień IV 31.10-06.11.2022 <br />
 Tydzień V 20.11-27.11.2022 <br />
 -Zapoznanie się z generatorem Analog Discovery 2, zainstalowanie oprogramowania WaveForms i wygenerowanie oraz zaobserwowanie na wbudowanym oscyloskopie wygenerowanych przebiegów. <br />
 -Testowanie płytki STM32F469 oraz wgranie na nią własnych programów i sprawdzenie ich działania poza symulacjami na platformie STM32GFXDesigner.
+Tydzień VI 5.12-11.12.2022 <br />
+-Nauka obslugi programu Git, w celu usprawnienia wspólnej pracy <br />
+-Modyfikacja aplikacji oscyloskopu. Dodanie nowych grafik, opracoanie nowych funkcji, takich jak zmiana skali wyświtlanego wykresu, czy utworzenie drugiego ekranu aplikacji. <br /n>
+-Dalsze zapoznawanie się ze sprzętem fizycznym (Generatorem oraz płytką z wyświetlaczem)<br /n>
