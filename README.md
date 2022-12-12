@@ -19,3 +19,4 @@ Tydzień VI 5.12-11.12.2022 <br />
 -Nauka obslugi programu Git, w celu usprawnienia wspólnej pracy <br />
 -Modyfikacja aplikacji oscyloskopu. Dodanie nowych grafik, opracowanie nowych funkcji, takich jak zmiana skali wyświtlanego wykresu, czy utworzenie drugiego ekranu aplikacji. <br />
 -Dalsze zapoznawanie się ze sprzętem fizycznym (Generatorem oraz płytką z wyświetlaczem) <br />
+-Dodanie plików dotychczasowo utworzonego projektu na git-a w branch-u master <br />
