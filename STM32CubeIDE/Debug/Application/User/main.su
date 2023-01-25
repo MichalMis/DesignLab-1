@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/test_ostateczny/Core/Src/main.c:841:6:StartDefaultTask	8	static
+C:/TouchGFXProjects/test_ostateczny/Core/Src/main.c:205:6:SystemClock_Config	96	static
+C:/TouchGFXProjects/test_ostateczny/Core/Src/main.c:113:5:main	248	static
+C:/TouchGFXProjects/test_ostateczny/Core/Src/main.c:828:6:HAL_ADC_ConvCpltCallback	8	static
+C:/TouchGFXProjects/test_ostateczny/Core/Src/main.c:860:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/TouchGFXProjects/test_ostateczny/Core/Src/main.c:877:6:Error_Handler	0	static
