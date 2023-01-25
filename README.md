@@ -20,3 +20,10 @@ Tydzień VI 5.12-11.12.2022 <br />
 -Modyfikacja aplikacji oscyloskopu. Dodanie nowych grafik, opracowanie nowych funkcji, takich jak zmiana skali wyświtlanego wykresu, czy utworzenie drugiego ekranu aplikacji. <br />
 -Dalsze zapoznawanie się ze sprzętem fizycznym (Generatorem oraz płytką z wyświetlaczem) <br />
 -Dodanie plików dotychczasowo utworzonego projektu na git-a w branch-u master <br />
+Kolejne tygodnie: <br />
+-Zapoznanie się z nową płytką (bez wyświetlacz), na której zostały wykonane tutoriale ze strony Forbot, aby zapoznać się z działaniem środowiska STMCubeIDE oraz działaniem mechnizmu ADC. <br />
+-Wykonanie aplikacji, która zczytuje pomiar napięcia z generatora Analog Discovery 2 i wsysła wyniki pomiarów na port UART. Odczyt danych wykonywany w aplikacji Putty. <br />
+-Modyfikacje programu oraz przeprowadzenie tych samych operacji na płytce z wyświetlaczem. <br />
+-Połączenie aplikacji do zczytywania wartości napięcia z generatora z aplikacją z STMTouchGFX, która wyświetla wykres szukanego napięcia. <br />
+-Zmodyfikowanie wyglądu oraz dodanie funkcjonalności, takich jak zmiana skali wyświetlanego wykresu w programie. <br />
+-Przeprowadzenie testu wykonanej aplikacji <br />
